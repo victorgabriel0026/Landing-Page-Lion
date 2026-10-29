@@ -4,7 +4,7 @@
 
 Este projeto consiste em uma Landing Page (LP) para o Lions Clube de Tabaporã. A página tem como objetivo apresentar a instituição, divulgar suas ações, oferecer um espaço para informações sobre como ajudar e facilitar o acesso à localização.
 
-A implementação fornecida utiliza HTML para estruturar o conteúdo e CSS para definir a apresentação visual. O HTML também referencia um arquivo JavaScript (`index.js`), mas o código desse arquivo ainda não foi finalizado; por isso, suas funcionalidades não são descritas nesta documentação.
+A implementação fornecida utiliza HTML para estruturar o conteúdo e CSS para definir a apresentação visual. O HTML também referencia um arquivo JavaScript (`index.js`), mas o código define o tempo que o carossel vai correr e suas funções.
 
 ## 2. Objetivos
 
